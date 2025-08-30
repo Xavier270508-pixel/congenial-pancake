@@ -2365,3 +2365,7 @@ java.lang.NullPointerException: null
 [30Aug2025 11:06:17.731] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@f2e6a9a[id=<null>,name=Xavier13554522,properties={},legacy=false] (/127.79.241.216:50901) lost connection: Disconnected
 [30Aug2025 11:09:46.692] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [30Aug2025 11:09:46.697] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[30Aug2025 11:14:46.689] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[30Aug2025 11:14:46.694] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[30Aug2025 11:19:46.692] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[30Aug2025 11:19:46.697] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
