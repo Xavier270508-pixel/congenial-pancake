@@ -572,3 +572,11 @@ java.lang.NullPointerException: null
 [31Aug2025 02:03:09.168] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xavier13554522 has made the advancement [Autophagy]
 [31Aug2025 02:15:17.623] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xavier13554522 is bleeding...
 [31Aug2025 02:15:39.785] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tangamandapio has made the advancement [Diamonds!]
+[31Aug2025 02:15:51.641] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xavier13554522 was shot by Skeleton
+[31Aug2025 02:15:56.586] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xavier13554522 was shot by Skeleton
+[31Aug2025 02:17:16.270] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-122, y=14, z=12} BlockPos{x=-122, y=14, z=13}
+[31Aug2025 02:18:12.421] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xavier13554522 is bleeding...
+[31Aug2025 02:18:43.390] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xavier13554522 was slain by Spider
+[31Aug2025 02:18:56.128] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Xavier13554522 moved too quickly! 10.007703740825264,1.7531999805212024,-0.10476642934297331
+[31Aug2025 02:19:31.876] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Xavier13554522 moved too quickly! 3.5417188657760477,0.7722207479599632,-9.508248093964255
+[31Aug2025 02:19:41.532] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Xavier13554522 moved too quickly! 0.4179927514780246,1.7722207479599632,-9.92880041224052

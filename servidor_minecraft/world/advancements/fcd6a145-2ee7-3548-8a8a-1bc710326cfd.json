@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-08-31 02:11:32 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/battleaxe_diamond": {
     "criteria": {
       "has_diamond": "2025-08-31 01:50:15 +0000"
@@ -92,6 +98,12 @@
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2025-08-30 19:24:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_wool": {
+    "criteria": {
+      "has_white_wool": "2025-08-31 02:11:32 +0000"
     },
     "done": true
   },
@@ -347,6 +359,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_wool": {
+    "criteria": {
+      "has_white_wool": "2025-08-31 02:11:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2025-08-31 01:09:56 +0000"
@@ -514,7 +532,8 @@
       "minecraft:skeleton": "2025-08-31 01:49:08 +0000",
       "minecraft:spider": "2025-08-31 01:49:00 +0000",
       "minecraft:cave_spider": "2025-08-31 01:10:15 +0000",
-      "minecraft:zombie": "2025-08-31 01:04:33 +0000"
+      "minecraft:zombie": "2025-08-31 01:04:33 +0000",
+      "minecraft:zombie_villager": "2025-08-31 02:20:33 +0000"
     },
     "done": false
   },
@@ -551,6 +570,12 @@
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_sword": "2025-08-31 01:07:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-08-31 02:11:32 +0000"
     },
     "done": true
   },
@@ -686,6 +711,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/black_wool": {
+    "criteria": {
+      "has_white_wool": "2025-08-31 02:11:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-08-31 01:50:27 +0000"
@@ -791,6 +822,12 @@
   "spartanweaponry:recipes/spartanweaponry.modded/dagger_silver": {
     "criteria": {
       "has_silver_ingot": "2025-08-31 01:51:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_wool": {
+    "criteria": {
+      "has_white_wool": "2025-08-31 02:11:32 +0000"
     },
     "done": true
   },
@@ -947,6 +984,12 @@
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-08-31 01:07:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_wool": {
+    "criteria": {
+      "has_white_wool": "2025-08-31 02:11:32 +0000"
     },
     "done": true
   },
@@ -1241,6 +1284,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_gray_wool": {
+    "criteria": {
+      "has_white_wool": "2025-08-31 02:11:32 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/lance_stone": {
     "criteria": {
       "has_cobblestone": "2025-08-31 00:41:17 +0000"
@@ -1259,9 +1308,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_wool": {
+    "criteria": {
+      "has_white_wool": "2025-08-31 02:11:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-08-31 00:41:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-08-31 02:11:32 +0000"
     },
     "done": true
   },
@@ -1280,6 +1341,12 @@
   "securitycraft:recipes/securitycraft/reinforced_dark_oak_fence": {
     "criteria": {
       "has_stick": "2025-08-31 00:36:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_wool": {
+    "criteria": {
+      "has_white_wool": "2025-08-31 02:11:32 +0000"
     },
     "done": true
   },
@@ -1310,6 +1377,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-08-31 01:01:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-08-31 02:11:32 +0000"
     },
     "done": true
   },
@@ -1385,6 +1458,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cyan_wool": {
+    "criteria": {
+      "has_white_wool": "2025-08-31 02:11:32 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/parrying_dagger_gold": {
     "criteria": {
       "has_gold_ingot": "2025-08-31 01:50:27 +0000"
@@ -1448,6 +1527,12 @@
   "securitycraft:recipes/securitycraft/harming_module": {
     "criteria": {
       "has_iron": "2025-08-31 01:07:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_wool": {
+    "criteria": {
+      "has_white_wool": "2025-08-31 02:11:32 +0000"
     },
     "done": true
   },
@@ -1533,6 +1618,12 @@
   "securitycraft:recipes/securitycraft/redstone_module": {
     "criteria": {
       "has_iron": "2025-08-31 01:07:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-08-31 02:11:32 +0000"
     },
     "done": true
   },
@@ -1659,6 +1750,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2025-08-31 01:01:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_wool": {
+    "criteria": {
+      "has_white_wool": "2025-08-31 02:11:32 +0000"
     },
     "done": true
   },
@@ -1830,6 +1927,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-08-31 02:11:32 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/throwing_knife_gold": {
     "criteria": {
       "has_gold_ingot": "2025-08-31 01:50:27 +0000"
@@ -1932,6 +2035,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_wool": {
+    "criteria": {
+      "has_white_wool": "2025-08-31 02:11:32 +0000"
+    },
+    "done": true
+  },
   "relics:obtain/infinity_ham": {
     "criteria": {
       "obtain_relic": "2025-08-31 02:03:09 +0000"
@@ -1968,6 +2077,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/green_wool": {
+    "criteria": {
+      "has_white_wool": "2025-08-31 02:11:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-08-31 01:50:15 +0000"
@@ -1986,6 +2101,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brown_wool": {
+    "criteria": {
+      "has_white_wool": "2025-08-31 02:11:32 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/longsword_diamond": {
     "criteria": {
       "has_diamond": "2025-08-31 01:50:15 +0000"
@@ -1995,6 +2116,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/glaive_wood": {
     "criteria": {
       "has_wood": "2025-08-30 19:24:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-08-31 02:11:32 +0000"
     },
     "done": true
   },
@@ -2397,6 +2524,12 @@
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-08-31 01:01:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_wool": {
+    "criteria": {
+      "has_white_wool": "2025-08-31 02:11:32 +0000"
     },
     "done": true
   },
