@@ -571,3 +571,16 @@ java.lang.NullPointerException: null
 [31Aug2025 00:42:19.039] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xavier13554522 has made the advancement [Getting an Upgrade]
 [31Aug2025 00:46:18.340] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Xavier13554522 lost connection: Disconnected
 [31Aug2025 00:46:18.341] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xavier13554522 left the game
+[31Aug2025 00:52:45.337] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: Disconnecting com.mojang.authlib.GameProfile@614ae49c[id=<null>,name=tangamandapio,properties={},legacy=false] (/127.27.158.48:34801): Took too long to log in
+[31Aug2025 00:52:45.383] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@614ae49c[id=<null>,name=tangamandapio,properties={},legacy=false] (/127.27.158.48:34801) lost connection: Took too long to log in
+[31Aug2025 00:53:23.835] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@16870eb7
+[31Aug2025 00:53:23.839] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: tangamandapio[/127.27.158.48:37483] logged in with entity id 1783 at (32.5, 63.0, -39.5)
+[31Aug2025 00:53:23.842] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tangamandapio joined the game
+[31Aug2025 00:53:23.885] [Server thread/INFO] [Waila/]: Syncing config to tangamandapio (cc036c8c-f22c-36b5-8c0a-ca3ee4029704)
+[31Aug2025 00:53:23.909] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tangamandapio has made the advancement [Ice and Fire]
+[31Aug2025 00:55:51.353] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@46b7c675
+[31Aug2025 00:55:51.363] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Xavier13554522[/127.79.241.216:60941] logged in with entity id 2049 at (-1.4182135632724606, 61.0, -45.69999998807907)
+[31Aug2025 00:55:51.366] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xavier13554522 joined the game
+[31Aug2025 00:55:51.403] [Server thread/INFO] [Waila/]: Syncing config to Xavier13554522 (fcd6a145-2ee7-3548-8a8a-1bc710326cfd)
+[31Aug2025 00:56:01.931] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tangamandapio has made the advancement [What Was That!?]
+[31Aug2025 00:56:08.605] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tangamandapio has made the advancement [Stone Age]
