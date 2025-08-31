@@ -568,3 +568,5 @@ java.lang.NullPointerException: null
 [31Aug2025 02:30:38.407] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xavier13554522 joined the game
 [31Aug2025 02:30:38.440] [Server thread/INFO] [Waila/]: Syncing config to Xavier13554522 (fcd6a145-2ee7-3548-8a8a-1bc710326cfd)
 [31Aug2025 02:31:13.286] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=85, y=69, z=-155} BlockPos{x=84, y=68, z=-154}
+[31Aug2025 02:47:54.934] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tangamandapio has made the advancement [Be obedient]
+[31Aug2025 02:47:54.934] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tangamandapio has made the advancement [That time I got reincarnated as a slime]
