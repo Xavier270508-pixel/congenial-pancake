@@ -567,3 +567,7 @@ java.lang.NullPointerException: null
 [31Aug2025 00:32:15.028] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Xavier13554522[/127.79.241.216:56893] logged in with entity id 315 at (33.66157490472097, 69.0, -59.91882242392527)
 [31Aug2025 00:32:15.064] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xavier13554522 joined the game
 [31Aug2025 00:32:15.184] [Server thread/INFO] [Waila/]: Syncing config to Xavier13554522 (fcd6a145-2ee7-3548-8a8a-1bc710326cfd)
+[31Aug2025 00:41:17.752] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xavier13554522 has made the advancement [Stone Age]
+[31Aug2025 00:42:19.039] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xavier13554522 has made the advancement [Getting an Upgrade]
+[31Aug2025 00:46:18.340] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Xavier13554522 lost connection: Disconnected
+[31Aug2025 00:46:18.341] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xavier13554522 left the game
