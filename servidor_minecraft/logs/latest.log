@@ -606,3 +606,22 @@ java.lang.NullPointerException: null
 [01Sep2025 03:55:23.485] [Server thread/INFO] [Waila/]: Syncing config to Xavier13554522 (fcd6a145-2ee7-3548-8a8a-1bc710326cfd)
 [01Sep2025 03:55:38.551] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Xavier13554522 lost connection: Timed out
 [01Sep2025 03:55:38.551] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xavier13554522 left the game
+[01Sep2025 03:56:43.956] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1c392853
+[01Sep2025 03:56:43.963] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Xavier13554522[/127.79.241.216:53799] logged in with entity id 4097 at (82.55379837425687, 73.0, 109.35060501617116)
+[01Sep2025 03:56:43.966] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xavier13554522 joined the game
+[01Sep2025 03:56:44.000] [Server thread/INFO] [Waila/]: Syncing config to Xavier13554522 (fcd6a145-2ee7-3548-8a8a-1bc710326cfd)
+[01Sep2025 03:59:14.136] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Xavier13554522 moved wrongly!
+[01Sep2025 03:59:37.703] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Xavier13554522 lost connection: Disconnected
+[01Sep2025 03:59:37.703] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xavier13554522 left the game
+[01Sep2025 04:00:05.501] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@4958e462[id=<null>,name=Xavier13554522,properties={},legacy=false] (/127.79.241.216:39507) lost connection: Disconnected
+[01Sep2025 04:01:11.007] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@31c5804f
+[01Sep2025 04:01:11.013] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Xavier13554522[/127.79.241.216:35821] logged in with entity id 5169 at (65.11218682703597, 65.0, 85.07372109508701)
+[01Sep2025 04:01:11.016] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xavier13554522 joined the game
+[01Sep2025 04:01:11.048] [Server thread/INFO] [Waila/]: Syncing config to Xavier13554522 (fcd6a145-2ee7-3548-8a8a-1bc710326cfd)
+[01Sep2025 04:02:11.248] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Xavier13554522 lost connection: Timed out
+[01Sep2025 04:02:11.248] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xavier13554522 left the game
+[01Sep2025 04:04:18.302] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1e12e30d
+[01Sep2025 04:04:18.308] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Xavier13554522[/127.79.241.216:52489] logged in with entity id 5994 at (65.01986385456695, 65.0, 92.34921659394357)
+[01Sep2025 04:04:18.311] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xavier13554522 joined the game
+[01Sep2025 04:04:18.343] [Server thread/INFO] [Waila/]: Syncing config to Xavier13554522 (fcd6a145-2ee7-3548-8a8a-1bc710326cfd)
+[01Sep2025 04:04:35.951] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Xavier13554522> Queria ser tu primer plan mas no el tercero
