@@ -8619,3 +8619,9 @@ java.lang.NullPointerException: null
 [01Sep2025 04:42:24.316] [Server thread/DEBUG] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: server sending mods Bulwark Regen  for ent-ID 3022
 [01Sep2025 04:42:27.009] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: tangamandapio lost connection: Disconnected
 [01Sep2025 04:42:27.009] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tangamandapio left the game
+[01Sep2025 04:45:07.076] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[01Sep2025 04:45:07.081] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[01Sep2025 04:50:07.002] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[01Sep2025 04:50:07.006] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[01Sep2025 04:55:07.002] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[01Sep2025 04:55:07.014] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
