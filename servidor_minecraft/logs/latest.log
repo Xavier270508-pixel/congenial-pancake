@@ -625,3 +625,32 @@ java.lang.NullPointerException: null
 [01Sep2025 04:04:18.311] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xavier13554522 joined the game
 [01Sep2025 04:04:18.343] [Server thread/INFO] [Waila/]: Syncing config to Xavier13554522 (fcd6a145-2ee7-3548-8a8a-1bc710326cfd)
 [01Sep2025 04:04:35.951] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Xavier13554522> Queria ser tu primer plan mas no el tercero
+[01Sep2025 04:06:15.925] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Xavier13554522 moved too quickly! 9.654186909266798,-1.1158406381575787,-2.8165197789493277
+[01Sep2025 04:06:56.933] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Xavier13554522 moved too quickly! 3.3569238805910686,3.0,9.221675133120044
+[01Sep2025 04:07:48.800] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Xavier13554522 lost connection: Timed out
+[01Sep2025 04:07:48.800] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xavier13554522 left the game
+[01Sep2025 04:09:09.601] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@556d18cf
+[01Sep2025 04:09:09.609] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Xavier13554522[/127.79.241.216:37375] logged in with entity id 7314 at (212.06024925055942, 84.0, 78.39644882263642)
+[01Sep2025 04:09:09.612] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xavier13554522 joined the game
+[01Sep2025 04:09:09.633] [Server thread/INFO] [Waila/]: Syncing config to Xavier13554522 (fcd6a145-2ee7-3548-8a8a-1bc710326cfd)
+[01Sep2025 04:09:58.113] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Xavier13554522> Si tas hablando no te entiendo nada
+[01Sep2025 04:10:19.751] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Xavier13554522> SEKAI GA OWARU MADE WA
+[01Sep2025 04:12:06.523] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Xavier13554522 moved too quickly! 0.0,-10.05000039935112,0.0
+[01Sep2025 04:12:31.409] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Xavier13554522> Pone un tema vos
+[01Sep2025 04:12:54.957] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Xavier13554522 lost connection: Timed out
+[01Sep2025 04:12:54.957] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xavier13554522 left the game
+[01Sep2025 04:13:45.597] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: Disconnecting com.mojang.authlib.GameProfile@603d5eee[id=<null>,name=Xavier13554522,properties={},legacy=false] (/127.79.241.216:55625): Took too long to log in
+[01Sep2025 04:13:45.645] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@603d5eee[id=<null>,name=Xavier13554522,properties={},legacy=false] (/127.79.241.216:55625) lost connection: Took too long to log in
+[01Sep2025 04:14:06.454] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@50020b8f
+[01Sep2025 04:14:06.462] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Xavier13554522[/127.79.241.216:45655] logged in with entity id 8758 at (227.56888297807762, 71.0, 155.40183047490342)
+[01Sep2025 04:14:06.465] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xavier13554522 joined the game
+[01Sep2025 04:14:06.481] [Server thread/INFO] [Waila/]: Syncing config to Xavier13554522 (fcd6a145-2ee7-3548-8a8a-1bc710326cfd)
+[01Sep2025 04:14:17.465] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Xavier13554522> ojala no entre putu
+[01Sep2025 04:14:25.268] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Xavier13554522> empieza a gritar el tema
+[01Sep2025 04:14:42.975] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Xavier13554522> yo escucho ese tema y me acuerdo a putu con jhenifer
+[01Sep2025 04:14:43.656] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <tangamandapio> se pone a llorar?
+[01Sep2025 04:14:57.861] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xavier13554522 is bleeding...
+[01Sep2025 04:15:04.907] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <tangamandapio> NO MANO JKJKKKAJSKAJ
+[01Sep2025 04:15:10.767] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xavier13554522 was blown up by Creeper
+[01Sep2025 04:15:51.702] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Xavier13554522 lost connection: Timed out
+[01Sep2025 04:15:51.703] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xavier13554522 left the game

@@ -1194,6 +1194,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2025-08-30 19:14:45 +0000",
+      "minecraft:mountains": "2025-09-01 04:10:27 +0000",
       "minecraft:river": "2025-08-31 02:05:02 +0000",
       "minecraft:wooded_hills": "2025-08-31 00:40:49 +0000",
       "minecraft:plains": "2025-08-31 00:32:29 +0000"
@@ -2273,6 +2274,12 @@
   "securitycraft:recipes/securitycraft/keycard_lv1": {
     "criteria": {
       "has_iron": "2025-08-31 01:07:21 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2025-09-01 04:10:56 +0000"
     },
     "done": true
   },
