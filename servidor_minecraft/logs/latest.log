@@ -580,3 +580,36 @@ java.lang.NullPointerException: null
 [01Sep2025 03:18:43.983] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xavier13554522 was slain by Ferrous Wroughtnaut
 [01Sep2025 03:18:57.239] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xavier13554522 is bleeding...
 [01Sep2025 03:19:10.619] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xavier13554522 was slain by Ferrous Wroughtnaut
+[01Sep2025 03:19:49.869] [Netty Epoll Server IO #4/ERROR] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channels [sophisticatedbackpacks:channel,citadel:main_channel,securitycraft:securitycraft,iceandfire:main_channel,curios:main,cataclysm:main_channel,spartanshields:network,playerrevive:main,mowziesmobs:net,creativecore:main,uteamcore:network,spartanweaponry:network,geckolib3:main,elevatorid:main_channel] rejected vanilla connections
+[01Sep2025 03:19:49.870] [Netty Epoll Server IO #4/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[01Sep2025 03:20:29.340] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xavier13554522 is bleeding...
+[01Sep2025 03:20:47.600] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xavier13554522 was slain by Ferrous Wroughtnaut
+[01Sep2025 03:20:47.767] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xavier13554522 was slain by Ferrous Wroughtnaut
+[01Sep2025 03:22:08.799] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Xavier13554522 lost connection: Timed out
+[01Sep2025 03:22:08.799] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xavier13554522 left the game
+[01Sep2025 03:22:08.848] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[01Sep2025 03:24:13.108] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7832f7d3
+[01Sep2025 03:24:13.118] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Xavier13554522[/127.79.241.216:56129] logged in with entity id 6516 at (63.68561727956471, 65.0, 89.90629382313007)
+[01Sep2025 03:24:13.120] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xavier13554522 joined the game
+[01Sep2025 03:24:13.151] [Server thread/INFO] [Waila/]: Syncing config to Xavier13554522 (fcd6a145-2ee7-3548-8a8a-1bc710326cfd)
+[01Sep2025 03:24:28.247] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Xavier13554522 lost connection: Timed out
+[01Sep2025 03:24:28.247] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xavier13554522 left the game
+[01Sep2025 03:25:06.504] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@63041903
+[01Sep2025 03:25:06.514] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Xavier13554522[/127.79.241.216:35511] logged in with entity id 6718 at (63.68561727956471, 65.0, 89.90629382313007)
+[01Sep2025 03:25:06.517] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xavier13554522 joined the game
+[01Sep2025 03:25:06.538] [Server thread/INFO] [Waila/]: Syncing config to Xavier13554522 (fcd6a145-2ee7-3548-8a8a-1bc710326cfd)
+[01Sep2025 03:26:13.776] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Xavier13554522> CINEEE
+[01Sep2025 03:26:26.439] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xavier13554522 is bleeding...
+[01Sep2025 03:26:29.954] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <tangamandapio> le ganaste?
+[01Sep2025 03:26:41.511] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xavier13554522 was slain by Ferrous Wroughtnaut
+[01Sep2025 03:26:56.321] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <tangamandapio> ya veo
+[01Sep2025 03:26:57.819] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Xavier13554522> OJala
+[01Sep2025 03:27:06.681] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Xavier13554522> ando lag
+[01Sep2025 03:27:34.489] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xavier13554522 is bleeding...
+[01Sep2025 03:27:41.214] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xavier13554522 was slain by Ferrous Wroughtnaut
+[01Sep2025 03:28:35.850] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Xavier13554522 lost connection: Disconnected
+[01Sep2025 03:28:35.850] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xavier13554522 left the game
+[01Sep2025 03:29:04.399] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1197f8a9
+[01Sep2025 03:29:04.406] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Xavier13554522[/127.79.241.216:41031] logged in with entity id 7971 at (64.3000000119209, 60.0, 94.57907170527817)
+[01Sep2025 03:29:04.408] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xavier13554522 joined the game
+[01Sep2025 03:29:04.427] [Server thread/INFO] [Waila/]: Syncing config to Xavier13554522 (fcd6a145-2ee7-3548-8a8a-1bc710326cfd)
