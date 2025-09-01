@@ -585,3 +585,8 @@ java.lang.NullPointerException: null
 [01Sep2025 04:37:12.969] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xavier13554522 left the game
 [01Sep2025 04:42:27.009] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: tangamandapio lost connection: Disconnected
 [01Sep2025 04:42:27.009] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tangamandapio left the game
+[01Sep2025 05:04:15.204] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1d1b45ee
+[01Sep2025 05:04:15.211] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Mcgee1[/127.246.183.12:48869] logged in with entity id 3209 at (35.5, 63.0, -27.5)
+[01Sep2025 05:04:15.213] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mcgee1 joined the game
+[01Sep2025 05:04:15.252] [Server thread/INFO] [Waila/]: Syncing config to Mcgee1 (52048cb5-2db3-301b-b661-84e4fc578283)
+[01Sep2025 05:04:15.274] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mcgee1 has made the advancement [Ice and Fire]
