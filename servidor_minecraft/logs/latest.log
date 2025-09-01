@@ -575,3 +575,13 @@ java.lang.NullPointerException: null
 [01Sep2025 04:30:20.612] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@aedf1eb[id=<null>,name=Xavier13554522,properties={},legacy=false] (/127.79.241.216:34673) lost connection: Disconnected
 [01Sep2025 04:31:45.814] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] gay
 [01Sep2025 04:33:21.062] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] clitoris
+[01Sep2025 04:36:43.761] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] array
+[01Sep2025 04:37:05.427] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5186d7b2
+[01Sep2025 04:37:05.439] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Xavier13554522[/127.79.241.216:35839] logged in with entity id 2163 at (120.55281066085718, 81.24918707874468, 92.62439381069137)
+[01Sep2025 04:37:05.442] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xavier13554522 joined the game
+[01Sep2025 04:37:05.468] [Server thread/INFO] [Waila/]: Syncing config to Xavier13554522 (fcd6a145-2ee7-3548-8a8a-1bc710326cfd)
+[01Sep2025 04:37:12.919] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Xavier13554522 was kicked for floating too long!
+[01Sep2025 04:37:12.968] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Xavier13554522 lost connection: Flying is not enabled on this server
+[01Sep2025 04:37:12.969] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xavier13554522 left the game
+[01Sep2025 04:42:27.009] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: tangamandapio lost connection: Disconnected
+[01Sep2025 04:42:27.009] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tangamandapio left the game
