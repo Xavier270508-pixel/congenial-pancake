@@ -119,6 +119,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-09-01 02:36:11 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/root": {
     "criteria": {
       "tick": "2025-08-30 19:14:46 +0000"
@@ -341,6 +347,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-09-01 02:36:29 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/tomahawk_wood": {
     "criteria": {
       "has_wood": "2025-08-30 19:24:10 +0000"
@@ -416,6 +428,12 @@
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2025-08-31 01:50:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-09-01 02:37:18 +0000"
     },
     "done": true
   },
@@ -521,6 +539,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-09-01 02:36:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2025-08-31 01:10:18 +0000"
@@ -576,6 +600,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/pike_iron": {
     "criteria": {
       "has_iron_ingot": "2025-08-31 01:07:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-09-01 02:36:29 +0000"
     },
     "done": true
   },
@@ -1077,6 +1107,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-09-01 02:36:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_sword": "2025-08-31 01:07:38 +0000"
@@ -1167,6 +1203,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/saber_gold": {
     "criteria": {
       "has_gold_ingot": "2025-08-31 01:50:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-09-01 02:36:29 +0000"
     },
     "done": true
   },
@@ -1386,6 +1428,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-09-01 02:36:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2025-08-31 02:11:32 +0000"
@@ -1527,6 +1575,12 @@
   "spartanweaponry:recipes/spartanweaponry.modded/rapier_copper": {
     "criteria": {
       "has_copper_ingot": "2025-08-31 02:23:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-09-01 02:36:29 +0000"
     },
     "done": true
   },
@@ -1700,6 +1754,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-09-01 02:36:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2025-08-31 01:01:55 +0000"
@@ -1799,6 +1859,12 @@
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-08-31 02:06:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-09-01 02:36:29 +0000"
     },
     "done": true
   },
@@ -1952,6 +2018,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-09-01 02:36:29 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/spear_iron": {
     "criteria": {
       "has_iron_ingot": "2025-08-31 01:07:21 +0000"
@@ -1973,6 +2045,12 @@
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2025-08-31 00:38:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-09-01 02:36:29 +0000"
     },
     "done": true
   },
@@ -2009,6 +2087,12 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2025-08-31 01:50:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-09-01 02:36:29 +0000"
     },
     "done": true
   },
@@ -2123,6 +2207,12 @@
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2025-08-31 00:33:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-09-01 02:36:29 +0000"
     },
     "done": true
   },
@@ -2684,6 +2774,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-09-01 02:36:29 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.modded/katana_copper": {
     "criteria": {
       "has_copper_ingot": "2025-08-31 02:23:25 +0000"
@@ -2777,6 +2873,12 @@
   "spartanweaponry:recipes/spartanweaponry.modded/warhammer_copper": {
     "criteria": {
       "has_copper_ingot": "2025-08-31 02:23:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-09-01 02:36:29 +0000"
     },
     "done": true
   },
