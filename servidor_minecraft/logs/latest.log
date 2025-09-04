@@ -564,3 +564,8 @@ java.lang.NullPointerException: null
 [04Sep2025 01:38:35.674] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: tangamandapio[/127.27.158.48:35601] logged in with entity id 144 at (-692.3256715954578, 64.0, 978.6999999880791)
 [04Sep2025 01:38:35.711] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tangamandapio joined the game
 [04Sep2025 01:38:35.884] [Server thread/INFO] [Waila/]: Syncing config to tangamandapio (cc036c8c-f22c-36b5-8c0a-ca3ee4029704)
+[04Sep2025 01:53:57.587] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/401, l='ServerLevel[world]', x=-788.93, y=70.56, z=991.70] died, message: 'Villager was slain by Zombie'
+[04Sep2025 01:56:29.338] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/459, l='ServerLevel[world]', x=-786.02, y=70.00, z=1017.47] died, message: 'Villager was slain by Ghost'
+[04Sep2025 01:56:36.657] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tangamandapio has completed the challenge [Usurper]
+[04Sep2025 01:57:29.537] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: tangamandapio lost connection: Disconnected
+[04Sep2025 01:57:29.537] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tangamandapio left the game
