@@ -143,6 +143,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_stairs": {
+    "criteria": {
+      "has_polished_granite": "2025-09-04 00:43:32 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/flanged_mace_gold": {
     "criteria": {
       "has_gold_ingot": "2025-08-31 02:12:40 +0000"
@@ -209,6 +215,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.modded/hammer_copper": {
+    "criteria": {
+      "has_copper_ingot": "2025-09-04 01:29:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2025-08-31 01:04:02 +0000"
@@ -224,6 +236,12 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2025-08-31 00:54:37 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smelting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-09-04 00:32:11 +0000"
     },
     "done": true
   },
@@ -248,6 +266,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/javelin_gold": {
     "criteria": {
       "has_gold_ingot": "2025-08-31 02:12:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-09-04 00:54:52 +0000"
     },
     "done": true
   },
@@ -281,6 +305,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.modded/dagger_copper": {
+    "criteria": {
+      "has_copper_ingot": "2025-09-04 01:29:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-08-31 01:04:02 +0000"
@@ -308,6 +338,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-08-31 00:56:08 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_small_prairie_house": {
+    "criteria": {
+      "location0": "2025-09-04 01:20:35 +0000"
     },
     "done": true
   },
@@ -404,6 +440,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smoking_upgrade": {
     "criteria": {
       "has_smoking_upgrade": "2025-08-31 00:53:47 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_siren": {
+    "criteria": {
+      "killed_fire_dragon": "2025-09-04 00:46:39 +0000"
     },
     "done": true
   },
@@ -563,6 +605,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/crystal_quartz_item": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-09-04 00:46:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-08-31 01:52:18 +0000"
@@ -587,6 +635,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.modded/longbow_copper": {
+    "criteria": {
+      "has_copper_ingot": "2025-09-04 01:29:34 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_blasting_upgrade_from_auto_smelting_upgrade": {
     "criteria": {
       "has_auto_smelting_upgrade": "2025-08-31 00:53:47 +0000"
@@ -602,6 +656,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-08-31 00:56:01 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/void_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-09-04 00:32:11 +0000"
     },
     "done": true
   },
@@ -647,8 +707,15 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.modded/battleaxe_copper": {
+    "criteria": {
+      "has_copper_ingot": "2025-09-04 01:29:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-09-04 01:23:45 +0000",
       "minecraft:skeleton": "2025-08-31 02:50:03 +0000",
       "minecraft:spider": "2025-09-01 02:52:37 +0000",
       "minecraft:creeper": "2025-09-01 04:27:54 +0000",
@@ -773,6 +840,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.modded/heavy_crossbow_copper": {
+    "criteria": {
+      "has_copper_ingot": "2025-09-04 01:29:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2025-08-31 02:17:22 +0000"
@@ -833,6 +906,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/everlasting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-09-04 00:32:11 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/throwing_knife_stone": {
     "criteria": {
       "has_cobblestone": "2025-08-31 00:56:08 +0000"
@@ -854,6 +933,12 @@
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2025-08-31 01:40:52 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/throwing_knife_copper": {
+    "criteria": {
+      "has_copper_ingot": "2025-09-04 01:29:34 +0000"
     },
     "done": true
   },
@@ -908,6 +993,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-08-31 01:09:01 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/lance_copper": {
+    "criteria": {
+      "has_copper_ingot": "2025-09-04 01:29:34 +0000"
     },
     "done": true
   },
@@ -983,6 +1074,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location1": "2025-09-04 01:22:01 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.arrows_bolts/arrow_wood": {
     "criteria": {
       "has_feather": "2025-08-31 01:00:25 +0000"
@@ -1043,6 +1140,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.modded/flanged_mace_copper": {
+    "criteria": {
+      "has_copper_ingot": "2025-09-04 01:29:34 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/smart_module": {
     "criteria": {
       "has_iron": "2025-08-31 01:04:02 +0000"
@@ -1061,6 +1164,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.modded/boomerang_copper": {
+    "criteria": {
+      "has_copper_ingot": "2025-09-04 01:29:34 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/block_change_detector": {
     "criteria": {
       "has_iron": "2025-08-31 01:04:02 +0000"
@@ -1070,6 +1179,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-08-31 01:04:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-09-04 00:46:51 +0000"
     },
     "done": true
   },
@@ -1118,6 +1233,12 @@
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_logs": "2025-09-01 03:49:44 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/stack_upgrade_tier_1": {
+    "criteria": {
+      "has_upgrade_base": "2025-09-04 00:32:11 +0000"
     },
     "done": true
   },
@@ -1229,6 +1350,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-09-04 00:46:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-31 02:16:23 +0000"
@@ -1307,6 +1434,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2025-09-04 00:43:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2025-08-31 00:56:08 +0000"
@@ -1327,6 +1460,7 @@
       "minecraft:beach": "2025-08-31 02:17:13 +0000",
       "minecraft:river": "2025-08-31 02:00:01 +0000",
       "minecraft:wooded_hills": "2025-08-31 01:50:41 +0000",
+      "minecraft:savanna": "2025-09-04 01:10:42 +0000",
       "minecraft:plains": "2025-08-31 00:58:47 +0000"
     },
     "done": false
@@ -1379,6 +1513,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.modded/spear_copper": {
+    "criteria": {
+      "has_copper_ingot": "2025-09-04 01:29:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2025-08-31 00:54:37 +0000"
@@ -1394,6 +1534,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2025-08-31 00:56:08 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/pike_copper": {
+    "criteria": {
+      "has_copper_ingot": "2025-09-04 01:29:34 +0000"
     },
     "done": true
   },
@@ -1418,6 +1564,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/halberd_iron": {
     "criteria": {
       "has_iron_ingot": "2025-08-31 01:04:02 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/crafting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-09-04 00:32:11 +0000"
     },
     "done": true
   },
@@ -1457,6 +1609,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-09-04 01:29:45 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/longbow_iron": {
     "criteria": {
       "has_iron_ingot": "2025-08-31 01:04:02 +0000"
@@ -1487,6 +1645,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.modded/quarterstaff_copper": {
+    "criteria": {
+      "has_copper_ingot": "2025-09-04 01:29:34 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_blasting_upgrade": {
     "criteria": {
       "has_blasting_upgrade": "2025-08-31 00:53:47 +0000"
@@ -1508,6 +1672,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/boomerang_iron": {
     "criteria": {
       "has_iron_ingot": "2025-08-31 01:04:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-09-04 00:46:51 +0000"
     },
     "done": true
   },
@@ -1556,6 +1726,12 @@
   "minecraft:recipes/decorations/red_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-09-01 02:37:07 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/halberd_copper": {
+    "criteria": {
+      "has_copper_ingot": "2025-09-04 01:29:34 +0000"
     },
     "done": true
   },
@@ -1637,6 +1813,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-09-04 01:21:11 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/spear_gold": {
     "criteria": {
       "has_gold_ingot": "2025-08-31 02:12:40 +0000"
@@ -1673,9 +1855,21 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/bestiary": {
+    "criteria": {
+      "bestiary": "2025-09-04 00:50:36 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/javelin_wood": {
     "criteria": {
       "has_wood": "2025-08-31 00:54:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-09-04 00:46:51 +0000"
     },
     "done": true
   },
@@ -1685,9 +1879,27 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/block_pocket_manager": {
+    "criteria": {
+      "has_redstone_block": "2025-09-04 01:09:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-09-04 01:09:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-08-31 02:12:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-09-04 00:56:44 +0000"
     },
     "done": true
   },
@@ -1724,6 +1936,18 @@
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-09-01 02:37:07 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/rapier_copper": {
+    "criteria": {
+      "has_copper_ingot": "2025-09-04 01:29:34 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/tomahawk_copper": {
+    "criteria": {
+      "has_copper_ingot": "2025-09-04 01:29:34 +0000"
     },
     "done": true
   },
@@ -1835,6 +2059,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/filter_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-09-04 00:32:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2025-08-31 02:12:40 +0000"
@@ -1859,6 +2089,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/pump_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-09-04 00:32:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-08-31 01:45:57 +0000",
@@ -1874,6 +2110,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2025-08-31 00:55:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/gorgon_head": {
+    "criteria": {
+      "bestiary": "2025-09-04 01:22:52 +0000"
     },
     "done": true
   },
@@ -1913,6 +2155,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/restock_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-09-04 00:32:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-09-01 02:37:07 +0000"
@@ -1922,6 +2170,12 @@
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2025-08-31 02:00:07 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/javelin_copper": {
+    "criteria": {
+      "has_copper_ingot": "2025-09-04 01:29:34 +0000"
     },
     "done": true
   },
@@ -1961,15 +2215,33 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.modded/greatsword_copper": {
+    "criteria": {
+      "has_copper_ingot": "2025-09-04 01:29:34 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/flanged_mace_wood": {
     "criteria": {
       "has_wood": "2025-08-31 00:54:37 +0000"
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/feeding_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-09-04 00:32:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2025-09-01 02:35:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-09-04 00:56:44 +0000"
     },
     "done": true
   },
@@ -2020,6 +2292,12 @@
       "has_gravel": "2025-08-31 02:16:23 +0000"
     },
     "done": true
+  },
+  "spartanweaponry:collect_heads": {
+    "criteria": {
+      "skeleton_skull": "2025-09-04 01:27:48 +0000"
+    },
+    "done": false
   },
   "spartanweaponry:recipes/spartanweaponry.basic/heavy_crossbow_leather": {
     "criteria": {
@@ -2195,6 +2473,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.modded/scythe_copper": {
+    "criteria": {
+      "has_copper_ingot": "2025-09-04 01:29:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2025-08-31 01:04:02 +0000"
@@ -2309,9 +2593,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2025-09-04 00:43:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-09-01 02:37:07 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/refill_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-09-04 00:32:11 +0000"
     },
     "done": true
   },
@@ -2354,6 +2650,24 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-09-01 03:33:25 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_merchant_campsite": {
+    "criteria": {
+      "location0": "2025-09-04 01:41:53 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/glaive_copper": {
+    "criteria": {
+      "has_copper_ingot": "2025-09-04 01:29:34 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/deposit_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-09-04 00:32:11 +0000"
     },
     "done": true
   },
@@ -2495,6 +2809,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/battery_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-09-04 00:32:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-08-31 01:48:00 +0000"
@@ -2543,6 +2863,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/tool_swapper_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-09-04 00:32:11 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/longsword_diamond": {
     "criteria": {
       "has_diamond": "2025-08-31 02:15:39 +0000"
@@ -2564,6 +2890,12 @@
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-08-31 01:40:37 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/longsword_copper": {
+    "criteria": {
+      "has_copper_ingot": "2025-09-04 01:29:34 +0000"
     },
     "done": true
   },
@@ -2783,6 +3115,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/jukebox_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-09-04 00:32:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-08-31 00:54:37 +0000"
@@ -2849,6 +3187,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.modded/parrying_dagger_copper": {
+    "criteria": {
+      "has_copper_ingot": "2025-09-04 01:29:34 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/katana_wood": {
     "criteria": {
       "has_wood": "2025-08-31 00:54:37 +0000"
@@ -2879,6 +3223,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_slab": {
+    "criteria": {
+      "has_polished_granite": "2025-09-04 00:43:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2025-08-31 02:24:07 +0000"
@@ -2906,6 +3256,12 @@
   "minecraft:recipes/misc/iron_ingot": {
     "criteria": {
       "has_iron_ore": "2025-08-31 01:01:32 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/inception_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-09-04 00:32:11 +0000"
     },
     "done": true
   },
@@ -3065,6 +3421,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.modded/katana_copper": {
+    "criteria": {
+      "has_copper_ingot": "2025-09-04 01:29:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2025-08-31 02:00:07 +0000"
@@ -3089,6 +3451,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/pickup_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-09-04 00:32:11 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/pole_from_string": {
     "criteria": {
       "has_stick": "2025-08-31 00:55:36 +0000"
@@ -3098,6 +3466,12 @@
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2025-09-01 03:33:25 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/saber_copper": {
+    "criteria": {
+      "has_copper_ingot": "2025-09-04 01:29:34 +0000"
     },
     "done": true
   },
@@ -3116,6 +3490,12 @@
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2025-09-01 02:35:58 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/stonecutter_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-09-04 00:32:11 +0000"
     },
     "done": true
   },
@@ -3143,15 +3523,33 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/compacting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-09-04 00:32:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-08-31 01:04:02 +0000"
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.modded/warhammer_copper": {
+    "criteria": {
+      "has_copper_ingot": "2025-09-04 01:29:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-09-01 02:37:07 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/tank_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-09-04 00:32:11 +0000"
     },
     "done": true
   },
