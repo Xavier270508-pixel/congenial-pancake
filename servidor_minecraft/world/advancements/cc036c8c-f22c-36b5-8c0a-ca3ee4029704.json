@@ -739,6 +739,7 @@
       "minecraft:creeper": "2025-09-01 04:27:54 +0000",
       "minecraft:cave_spider": "2025-08-31 01:33:24 +0000",
       "minecraft:enderman": "2025-09-01 03:53:12 +0000",
+      "minecraft:silverfish": "2025-09-05 19:08:06 +0000",
       "minecraft:zombie": "2025-08-31 01:12:04 +0000",
       "minecraft:zombie_villager": "2025-08-31 02:54:03 +0000"
     },
@@ -921,6 +922,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-31 02:16:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-09-05 19:20:11 +0000"
     },
     "done": true
   },
@@ -1623,6 +1630,12 @@
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2025-09-01 02:35:58 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/diamond_backpack": {
+    "criteria": {
+      "has_the_recipe": "2025-09-05 19:18:54 +0000"
     },
     "done": true
   },
@@ -2586,6 +2599,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-09-05 19:18:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2025-09-01 02:35:58 +0000"
@@ -2625,6 +2644,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/flanged_mace_diamond": {
     "criteria": {
       "has_diamond": "2025-08-31 02:15:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-09-05 19:20:11 +0000"
     },
     "done": true
   },
@@ -2679,6 +2704,12 @@
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2025-08-31 02:00:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-09-05 19:20:11 +0000"
     },
     "done": true
   },
@@ -3246,6 +3277,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-09-05 19:09:02 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/katana_wood": {
     "criteria": {
       "has_wood": "2025-08-31 00:54:37 +0000"
@@ -3351,6 +3388,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/boomerang_wood": {
     "criteria": {
       "has_wood": "2025-08-31 00:54:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-09-05 19:08:39 +0000"
     },
     "done": true
   },

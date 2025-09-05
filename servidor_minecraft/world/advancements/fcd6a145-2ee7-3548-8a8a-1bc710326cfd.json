@@ -137,6 +137,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-09-05 19:21:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2025-08-31 00:40:45 +0000"
@@ -224,6 +230,12 @@
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-08-31 01:44:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-09-05 19:20:37 +0000"
     },
     "done": true
   },
@@ -443,6 +455,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-09-05 19:15:31 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/glaive_stone": {
     "criteria": {
       "has_cobblestone": "2025-08-31 00:41:17 +0000"
@@ -542,6 +560,12 @@
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-09-01 02:36:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2025-09-05 19:20:46 +0000"
     },
     "done": true
   },
@@ -771,6 +795,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-09-05 19:20:46 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/scythe_gold": {
     "criteria": {
       "has_gold_ingot": "2025-08-31 01:50:27 +0000"
@@ -870,6 +900,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/pike_gold": {
     "criteria": {
       "has_gold_ingot": "2025-08-31 01:50:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-09-05 19:15:31 +0000"
     },
     "done": true
   },
@@ -1195,6 +1231,9 @@
     "criteria": {
       "minecraft:forest": "2025-08-30 19:14:45 +0000",
       "minecraft:mountains": "2025-09-01 04:10:27 +0000",
+      "minecraft:taiga": "2025-09-05 19:15:28 +0000",
+      "minecraft:taiga_hills": "2025-09-05 19:16:33 +0000",
+      "minecraft:beach": "2025-09-05 19:17:15 +0000",
       "minecraft:river": "2025-08-31 02:05:02 +0000",
       "minecraft:wooded_hills": "2025-08-31 00:40:49 +0000",
       "minecraft:plains": "2025-08-31 00:32:29 +0000"
@@ -1507,6 +1546,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-09-05 19:21:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-08-31 01:01:46 +0000"
@@ -1645,6 +1690,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2025-09-05 19:17:08 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/blacklist_module": {
     "criteria": {
       "has_iron": "2025-08-31 01:07:21 +0000"
@@ -1654,6 +1705,12 @@
   "securitycraft:recipes/securitycraft/speed_module": {
     "criteria": {
       "has_iron": "2025-08-31 01:07:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-09-05 19:18:02 +0000"
     },
     "done": true
   },
@@ -1715,6 +1772,7 @@
     "criteria": {
       "cooked_porkchop": "2025-08-31 01:38:06 +0000",
       "cooked_beef": "2025-08-31 01:00:20 +0000",
+      "beef": "2025-09-05 19:37:06 +0000",
       "bread": "2025-08-31 02:23:16 +0000"
     },
     "done": false
@@ -1722,6 +1780,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2025-08-31 00:36:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-09-05 19:20:46 +0000"
     },
     "done": true
   },
@@ -1734,6 +1798,12 @@
   "spartanweaponry:recipes/spartanweaponry.modded/scythe_silver": {
     "criteria": {
       "has_silver_ingot": "2025-08-31 01:51:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2025-09-05 19:20:46 +0000"
     },
     "done": true
   },
@@ -1953,6 +2023,12 @@
     },
     "done": true
   },
+  "spartanweaponry:scythe": {
+    "criteria": {
+      "has_scythe": "2025-09-05 19:18:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-08-31 01:00:20 +0000"
@@ -1986,6 +2062,12 @@
   "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-08-31 01:01:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-09-05 19:18:02 +0000"
     },
     "done": true
   },
@@ -2142,6 +2224,12 @@
   "spartanweaponry:recipes/spartanweaponry.modded/glaive_copper": {
     "criteria": {
       "has_copper_ingot": "2025-08-31 02:23:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
+    "criteria": {
+      "has_dark_prismarine": "2025-09-05 19:21:53 +0000"
     },
     "done": true
   },
@@ -2487,6 +2575,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_jungle_planks": "2025-09-05 19:20:46 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/hammer_stone": {
     "criteria": {
       "has_cobblestone": "2025-08-31 00:41:17 +0000"
@@ -2589,6 +2683,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-09-05 19:18:02 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/scythe_wood": {
     "criteria": {
       "has_wood": "2025-08-30 19:24:10 +0000"
@@ -2598,6 +2698,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/greatsword_stone": {
     "criteria": {
       "has_cobblestone": "2025-08-31 00:41:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2025-09-05 19:20:46 +0000"
     },
     "done": true
   },
@@ -2634,6 +2740,12 @@
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_stone": "2025-08-31 01:01:46 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:boomerang": {
+    "criteria": {
+      "has_boomerang": "2025-09-05 19:19:12 +0000"
     },
     "done": true
   },
@@ -2733,6 +2845,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2025-09-05 19:20:46 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.arrows_bolts/bolt_diamond": {
     "criteria": {
       "has_feather": "2025-08-31 01:28:14 +0000"
@@ -2757,6 +2875,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
+    "criteria": {
+      "has_dark_prismarine": "2025-09-05 19:21:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-08-31 01:01:46 +0000"
@@ -2772,6 +2896,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smoking_upgrade_from_auto_smelting_upgrade": {
     "criteria": {
       "has_auto_smelting_upgrade": "2025-08-30 19:23:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2025-09-05 19:20:46 +0000"
     },
     "done": true
   },
@@ -2808,6 +2938,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2025-08-31 01:01:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-09-05 19:20:46 +0000"
     },
     "done": true
   },
@@ -2892,6 +3028,12 @@
   "spartanweaponry:recipes/spartanweaponry.modded/warhammer_copper": {
     "criteria": {
       "has_copper_ingot": "2025-08-31 02:23:25 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:battleaxe": {
+    "criteria": {
+      "has_battleaxe": "2025-09-05 19:19:12 +0000"
     },
     "done": true
   },
