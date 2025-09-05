@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-09-05 19:51:05 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/sentry": {
     "criteria": {
       "has_iron": "2025-08-31 01:07:21 +0000"
@@ -86,6 +92,12 @@
   "spartanweaponry:recipes/spartanweaponry.modded/longsword_silver": {
     "criteria": {
       "has_silver_ingot": "2025-08-31 01:51:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-09-05 19:51:05 +0000"
     },
     "done": true
   },
@@ -143,6 +155,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-09-05 19:42:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2025-08-31 00:40:45 +0000"
@@ -152,6 +170,12 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2025-08-31 01:50:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-09-05 19:51:05 +0000"
     },
     "done": true
   },
@@ -170,6 +194,12 @@
   "minecraft:recipes/misc/gold_ingot_from_blasting": {
     "criteria": {
       "has_gold_ore": "2025-08-31 02:07:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-09-05 19:42:13 +0000"
     },
     "done": true
   },
@@ -197,9 +227,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-09-05 19:42:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_blasting": {
     "criteria": {
       "has_iron_ore": "2025-08-31 01:03:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2025-09-05 19:42:14 +0000"
     },
     "done": true
   },
@@ -218,6 +260,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/javelin_gold": {
     "criteria": {
       "has_gold_ingot": "2025-08-31 01:50:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-09-05 19:42:42 +0000"
     },
     "done": true
   },
@@ -269,6 +317,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-09-05 19:42:13 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/scythe_diamond": {
     "criteria": {
       "has_diamond": "2025-08-31 01:50:15 +0000"
@@ -278,6 +332,12 @@
   "spartanweaponry:recipes/spartanweaponry.modded/boomerang_silver": {
     "criteria": {
       "has_silver_ingot": "2025-08-31 01:51:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-09-05 20:05:35 +0000"
     },
     "done": true
   },
@@ -386,6 +446,12 @@
   "securitycraft:recipes/securitycraft/reinforced_crimson_fence_gate": {
     "criteria": {
       "has_stick": "2025-08-31 00:36:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_button": {
+    "criteria": {
+      "has_planks": "2025-09-05 19:42:14 +0000"
     },
     "done": true
   },
@@ -601,10 +667,13 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-09-05 19:55:02 +0000",
       "minecraft:skeleton": "2025-08-31 01:49:08 +0000",
+      "minecraft:vindicator": "2025-09-05 19:43:33 +0000",
       "minecraft:spider": "2025-08-31 01:49:00 +0000",
       "minecraft:cave_spider": "2025-08-31 01:10:15 +0000",
       "minecraft:zombie": "2025-08-31 01:04:33 +0000",
+      "minecraft:drowned": "2025-09-05 19:57:27 +0000",
       "minecraft:zombie_villager": "2025-08-31 02:20:33 +0000"
     },
     "done": false
@@ -627,6 +696,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-09-05 19:38:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-09-01 02:36:29 +0000"
@@ -639,9 +714,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/crimson_sign": {
+    "criteria": {
+      "has_crimson_planks": "2025-09-05 19:42:14 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.modded/halberd_silver": {
     "criteria": {
       "has_silver_ingot": "2025-08-31 01:51:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-09-05 19:42:13 +0000"
     },
     "done": true
   },
@@ -729,9 +816,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-09-05 19:54:18 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/warhammer_stone": {
     "criteria": {
       "has_cobblestone": "2025-08-31 00:41:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-09-05 19:38:11 +0000"
     },
     "done": true
   },
@@ -867,6 +966,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crimson_slab": {
+    "criteria": {
+      "has_planks": "2025-09-05 19:42:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2025-08-31 00:33:00 +0000"
@@ -876,6 +981,18 @@
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2025-08-31 01:07:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_stairs": {
+    "criteria": {
+      "has_planks": "2025-09-05 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-09-05 19:42:14 +0000"
     },
     "done": true
   },
@@ -915,9 +1032,21 @@
     },
     "done": true
   },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location0": "2025-09-05 19:42:00 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.arrows_bolts/arrow_wood": {
     "criteria": {
       "has_feather": "2025-08-31 01:28:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_glazed_terracotta": {
+    "criteria": {
+      "has_purple_terracotta": "2025-09-05 19:43:17 +0000"
     },
     "done": true
   },
@@ -1119,6 +1248,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-09-05 19:51:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-09-05 19:42:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_oak_planks": "2025-08-30 19:24:10 +0000"
@@ -1229,12 +1370,14 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2025-09-05 19:56:56 +0000",
       "minecraft:forest": "2025-08-30 19:14:45 +0000",
       "minecraft:mountains": "2025-09-01 04:10:27 +0000",
       "minecraft:taiga": "2025-09-05 19:15:28 +0000",
       "minecraft:taiga_hills": "2025-09-05 19:16:33 +0000",
       "minecraft:beach": "2025-09-05 19:17:15 +0000",
       "minecraft:river": "2025-08-31 02:05:02 +0000",
+      "minecraft:wooded_mountains": "2025-09-05 19:39:17 +0000",
       "minecraft:wooded_hills": "2025-08-31 00:40:49 +0000",
       "minecraft:plains": "2025-08-31 00:32:29 +0000"
     },
@@ -1402,6 +1545,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-09-05 19:54:18 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_blasting_upgrade": {
     "criteria": {
       "has_blasting_upgrade": "2025-08-30 19:23:48 +0000"
@@ -1423,6 +1572,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/boomerang_iron": {
     "criteria": {
       "has_iron_ingot": "2025-08-31 01:07:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_sword": "2025-09-05 19:38:20 +0000"
     },
     "done": true
   },
@@ -1597,6 +1752,12 @@
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-08-31 01:50:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-09-05 19:54:18 +0000"
     },
     "done": true
   },
@@ -1789,6 +1950,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-09-05 19:54:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-08-31 01:07:21 +0000"
@@ -1891,6 +2058,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-09-05 19:54:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-08-31 01:07:21 +0000"
@@ -1926,6 +2099,12 @@
       "has_diamond": "2025-08-31 01:50:15 +0000"
     },
     "done": true
+  },
+  "spartanweaponry:collect_heads": {
+    "criteria": {
+      "skeleton_skull": "2025-09-05 19:42:51 +0000"
+    },
+    "done": false
   },
   "spartanweaponry:recipes/spartanweaponry.basic/heavy_crossbow_leather": {
     "criteria": {
@@ -2002,6 +2181,12 @@
   "minecraft:recipes/building_blocks/orange_wool": {
     "criteria": {
       "has_white_wool": "2025-08-31 02:11:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_door": {
+    "criteria": {
+      "has_planks": "2025-09-05 19:42:14 +0000"
     },
     "done": true
   },
@@ -2149,6 +2334,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-09-05 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-09-05 19:51:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2025-08-31 01:50:15 +0000"
@@ -2176,6 +2373,12 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2025-08-31 01:50:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-09-05 19:42:13 +0000"
     },
     "done": true
   },
@@ -2215,9 +2418,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-09-05 19:42:13 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/throwing_knife_gold": {
     "criteria": {
       "has_gold_ingot": "2025-08-31 01:50:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-09-05 19:51:05 +0000"
     },
     "done": true
   },
@@ -2248,6 +2463,18 @@
   "spartanweaponry:recipes/spartanweaponry.modded/saber_silver": {
     "criteria": {
       "has_silver_ingot": "2025-08-31 01:51:00 +0000"
+    },
+    "done": true
+  },
+  "relics:obtain/jellyfish_necklace": {
+    "criteria": {
+      "obtain_relic": "2025-09-05 20:05:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-09-05 20:05:35 +0000"
     },
     "done": true
   },
@@ -2338,6 +2565,12 @@
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2025-08-31 02:11:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_spruce_planks": "2025-09-05 19:51:05 +0000"
     },
     "done": true
   },
@@ -2521,6 +2754,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_sword": "2025-09-05 19:38:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2025-08-31 00:41:17 +0000"
@@ -2548,6 +2787,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2025-08-31 02:06:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-09-05 19:51:05 +0000"
     },
     "done": true
   },
@@ -2602,6 +2847,12 @@
   "spartanweaponry:recipes/spartanweaponry.modded/javelin_silver": {
     "criteria": {
       "has_silver_ingot": "2025-08-31 01:51:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2025-09-05 19:54:34 +0000"
     },
     "done": true
   },
@@ -2749,6 +3000,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-09-05 19:42:13 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/spear_stone": {
     "criteria": {
       "has_cobblestone": "2025-08-31 00:41:17 +0000"
@@ -2776,6 +3033,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/boomerang_wood": {
     "criteria": {
       "has_wood": "2025-08-30 19:24:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-09-05 19:42:15 +0000"
     },
     "done": true
   },
@@ -2971,6 +3234,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-09-05 19:51:05 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.modded/saber_copper": {
     "criteria": {
       "has_copper_ingot": "2025-08-31 02:23:25 +0000"
@@ -2992,6 +3261,12 @@
   "spartanweaponry:recipes/spartanweaponry.modded/heavy_crossbow_silver": {
     "criteria": {
       "has_silver_ingot": "2025-08-31 01:51:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-09-05 19:42:13 +0000"
     },
     "done": true
   },
