@@ -1374,6 +1374,7 @@
       "minecraft:forest": "2025-08-30 19:14:45 +0000",
       "minecraft:mountains": "2025-09-01 04:10:27 +0000",
       "minecraft:taiga": "2025-09-05 19:15:28 +0000",
+      "minecraft:deep_cold_ocean": "2025-09-05 20:13:20 +0000",
       "minecraft:taiga_hills": "2025-09-05 19:16:33 +0000",
       "minecraft:beach": "2025-09-05 19:17:15 +0000",
       "minecraft:river": "2025-08-31 02:05:02 +0000",
@@ -1932,6 +1933,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-08-31 01:38:06 +0000",
+      "cooked_mutton": "2025-09-05 20:18:19 +0000",
       "cooked_beef": "2025-08-31 01:00:20 +0000",
       "beef": "2025-09-05 19:37:06 +0000",
       "bread": "2025-08-31 02:23:16 +0000"

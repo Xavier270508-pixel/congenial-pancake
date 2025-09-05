@@ -599,3 +599,18 @@ java.lang.NullPointerException: null
 [05Sep2025 20:13:05.801] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Xavier13554522[/127.31.69.146:35373] logged in with entity id 5009 at (-361.99574648334806, 67.16610926093821, 164.42772895761829)
 [05Sep2025 20:13:05.803] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xavier13554522 joined the game
 [05Sep2025 20:13:05.819] [Server thread/INFO] [Waila/]: Syncing config to Xavier13554522 (fcd6a145-2ee7-3548-8a8a-1bc710326cfd)
+[05Sep2025 20:16:12.192] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tangamandapio has made the advancement [Sea? Not a Problem]
+[05Sep2025 20:21:28.219] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: tangamandapio moved too quickly! 5.0015192409971405,2.4129092804170114,-8.4479740189513
+[05Sep2025 20:21:32.236] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: tangamandapio was kicked for floating too long!
+[05Sep2025 20:21:32.287] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: tangamandapio lost connection: Flying is not enabled on this server
+[05Sep2025 20:21:32.288] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tangamandapio left the game
+[05Sep2025 20:21:42.442] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@14a24fa7
+[05Sep2025 20:21:42.453] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: tangamandapio[/127.249.202.99:39675] logged in with entity id 9549 at (-1617.5240841036778, 69.00133597911214, 1472.9449580654277)
+[05Sep2025 20:21:42.455] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tangamandapio joined the game
+[05Sep2025 20:21:42.487] [Server thread/INFO] [Waila/]: Syncing config to tangamandapio (cc036c8c-f22c-36b5-8c0a-ca3ee4029704)
+[05Sep2025 20:22:16.436] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: tangamandapio lost connection: Disconnected
+[05Sep2025 20:22:16.436] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tangamandapio left the game
+[05Sep2025 20:23:48.885] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@2b19eb6
+[05Sep2025 20:23:48.892] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: tangamandapio[/127.249.202.99:46677] logged in with entity id 10372 at (-1611.6151384668676, 72.0, 1440.3907337566732)
+[05Sep2025 20:23:48.895] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tangamandapio joined the game
+[05Sep2025 20:23:48.909] [Server thread/INFO] [Waila/]: Syncing config to tangamandapio (cc036c8c-f22c-36b5-8c0a-ca3ee4029704)
